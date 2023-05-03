@@ -1,0 +1,44 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "Lien"
+    },
+    {
+      "id": 2,
+      "name": "thong"
+    }
+  ],
+  "message": [
+    {
+      "id": 1,
+      "userId": 1,
+      "message": "Hello",
+      "like": true
+    },
+    {
+      "userId": 2,
+      "message": "hoc de lam nguoi",
+      "id": 2,
+      "like": false
+    },
+    {
+      "userId": 1,
+      "message": "he you?",
+      "like": false,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "message": "he",
+      "like": false,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "message": "123",
+      "like": false,
+      "id": 5
+    }
+  ]
+}
