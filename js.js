@@ -116,9 +116,9 @@ function start(){
     getMessage(renderMessage);
 
     handleEvent();
-    /* setInterval(function(){
+    setInterval(function(){
         getMessage(renderMessage);
-    },1000); */
+    },1000);
 }
 
 start()
