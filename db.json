@@ -1,0 +1,26 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "Lien"
+    },
+    {
+      "id": 2,
+      "name": "thong"
+    }
+  ],
+  "message": [
+    {
+      "userId": 1,
+      "message": "hoc de lam nguoi",
+      "like": false,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "message": "hú 2",
+      "like": true,
+      "id": 5
+    }
+  ]
+}
